@@ -1,15 +1,17 @@
 # todo-app
 
-## Project setup
-```
-npm install
-```
+## Demo
+[https://todo-vue-assignment.herokuapp.com/](https://todo-vue-assignment.herokuapp.com/)
 
 ## Main files
 The App.vue file is the container file where the ```TodoList Component``` is rendered.
 
 The Todo App is inside the ```./components/TodoList.vue```.
 
+## Project setup
+```
+npm install
+```
 
 ### Compiles and hot-reloads for development
 ```
