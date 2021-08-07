@@ -71,7 +71,7 @@ export default {
 
 .fixed {
   position: fixed;
-  min-width: 33%;
+  width: 33%;
   background-color: #fff;
   padding: 1rem;
   display: flex;
